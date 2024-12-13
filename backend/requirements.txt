@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+asyncpg
+authlib
+pyjwt
+passlib[bcrypt]
+fastapi-mail
+python-dotenv
